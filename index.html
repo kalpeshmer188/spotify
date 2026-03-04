@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="index.js">
+</head>
+
+<body>
+
+    <header>
+        <h2 class="logo">MyPortfolio</h2>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+            <button id="themeBtn">🌙</button>
+        </nav>
+    </header>
+
+    <section id="home" class="home">
+        <h1>Hello, I'm <span>Web Developer</span></h1>
+        <p>HTML | CSS | JavaScript</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a frontend developer skilled in HTML, CSS and JavaScript.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+
+        <div class="skill">HTML
+            <div class="bar">
+                <div style="width:90%"></div>
+            </div>
+        </div>
+
+        <div class="skill">CSS
+            <div class="bar">
+                <div style="width:80%"></div>
+            </div>
+        </div>
+
+        <div class="skill">JavaScript
+            <div class="bar">
+                <div style="width:70%"></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">To-Do List App</div>
+        <div class="project">Calculator</div>
+        <div class="project">Weather App</div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <form id="contactForm">
+            <input type="text" id="name" placeholder="Enter Name">
+            <input type="email" id="email" placeholder="Enter Email">
+            <textarea id="msg" placeholder="Message"></textarea>
+            <button type="submit">Send</button>
+            <p id="formMsg"></p>
+        </form>
+    </section>
+
+    
+</body>
+
+</html>

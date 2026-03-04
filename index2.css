@@ -1,0 +1,1199 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main
+{
+    background-color: black;
+    height: 60px;
+    width: 1528px;
+    border-radius: 5px;
+    position: fixed;
+}
+
+nav
+{
+font-family: 'ubuntu', sans-serif;
+}
+
+nav ul li img
+{
+    width: 35px;
+    height: 300px;
+    margin: 3px;
+    margin-left: 25px;
+    margin-top: -120px;
+}
+
+.Image img
+{
+    width: 35px;
+    float: left;
+    float: right;
+    margin-right: 1397px;
+    margin-top: -308px;
+}
+
+.write-primium
+{
+    color: rgb(149, 142, 142);
+    margin-left: 923px;
+    margin-top: -185px;
+}
+
+.write-primium:hover
+{
+    color: white;
+    font-size: 17px;
+}
+
+.write-Support
+{
+    color: rgb(149, 142, 142);
+    float: right;
+    margin-top: -185px;
+    margin-right: 460px;
+}
+
+.write-Support:hover
+{
+    color: white;
+    font-size: 17px;
+}
+
+.write-Download
+{
+    color: rgb(149, 142, 142);
+    float: right;
+    margin-right: 369px;
+    margin-top: -185px;
+}
+
+.write-Download:hover
+{
+    color: white;
+    font-size: 17px;
+}
+
+.stick
+{
+    color: white;
+    font-size: 35px;
+    margin-left: 1200px;
+    margin-top: -30px;
+    position: fixed;
+}
+
+/*.Download-image
+{
+    position: absolute;
+    margin-left: 1193px;
+    margin-top: -37px;
+}*/
+
+.write-InstallApp
+{
+    color: rgb(149, 142, 142);
+    margin-left: 1260px;
+    margin-top: -18px;
+}
+
+.write-InstallApp:hover
+{
+    color: white;
+    font-size: 17px;
+}
+
+.write-Singup
+{
+    color: rgb(149, 142, 142);
+    margin-left: 1350px;
+    margin-top: -18px;
+}
+
+.write-Singup:hover
+{
+    color: white;
+    font-size: 17px;
+}
+
+.write-Login
+{
+    color: black;
+    margin-left: 1422px;
+    margin-top: -31px;
+    position: absolute;
+    background-color: white;
+    height: 42px;
+    width: 88px;
+    border-radius: 30px;
+    font-size: 17px;
+}
+
+.write-Login:hover
+{
+    background: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.main2
+{
+    height: 650px;
+    width: 430px;
+    background-color: rgb(33, 33, 33);
+    margin-top: 63px;
+    border-radius: 8px;
+    position: fixed;
+}
+
+.main2 p
+{
+    font-size: 20px;
+    color: white;
+    padding: 30px;
+}
+
+.main2 img
+{
+    height: 35px;
+    width: 20px;
+    float: right;
+    margin-top: -115px;
+    margin-right: 30px;
+}
+
+.main3
+{
+    height: 150px;
+    width: 410px;
+    background-color: rgb(50, 50, 50);
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.main3 p
+{
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.main4 p
+{
+    color:white;
+    font-size: 17px;
+    margin-top: -30px;
+}
+
+.main5 p
+{
+    color: black;
+    margin-left: 20px;
+    margin-top: -7px;
+    background-color:white;
+    position: absolute;
+    border-radius: 50px;
+    height: 17px;
+    width: 110px;
+}
+
+.main5 p:hover
+{
+    background: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.main6
+{
+    height: 150px;
+    width: 410px;
+    background-color: rgb(50, 50, 50);
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 25px;   
+}
+
+.main6 p
+{
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.main7 p
+{
+    color:white;
+    font-size: 17px;
+    margin-top: -30px;
+    margin-left: -1px;
+}
+
+.main8 p
+{
+    color: black;
+    margin-left: 20px;
+    margin-top: -7px;
+    background-color:white;
+    position: absolute;
+    border-radius: 50px;
+    height: 17px;
+    width: 130px;
+}
+
+.main8 p:hover
+{
+    background: #f0f0f0;
+    transform: scale(1.05);
+}
+
+p.legal
+{
+    color: white;
+    font-size: 14px;
+}
+
+p.safety
+{
+    color: white;
+    font-size: 14px;
+    margin-left: 53px;
+    margin-top: -76px;
+}
+
+p.privacy
+{
+    color: white;
+    font-size: 14px;
+    margin-left: 210px;
+    margin-top: -77px;
+}
+
+p.cookies
+{
+    color: white;
+    font-size: 14px;
+    margin-left: 315px;
+    margin-top: -76px;
+}
+
+p.aboutAds
+{
+    font-size: 14px;
+    color: white;
+    margin-top: -40px;
+}
+
+p.accessibility
+{
+    font-size: 14px;
+    color: white;
+    margin-left: 85px;
+    margin-top: -77px;
+}
+
+p.cookies2
+{
+    color: white;
+    font-size: 15px;
+    margin-top: -40PX;  
+    position: absolute;
+}
+
+p.cookies2:hover
+{
+    text-decoration: underline;
+}
+
+.square
+{
+    background-color: rgb(33, 33, 33);
+    height: 1400px;
+    width: 1075px;
+    float: right;
+    margin-right: 1px;
+    margin-top: 65px;
+    border-radius: 10px;
+}
+
+.square p
+{
+    color: white;
+    font-size: 27px;
+    padding: 25px 45px;
+}
+
+.showall 
+{
+    margin-left: 990px;
+    margin-top: -50px;
+    font-size: 14px;
+    color: rgb(149, 142, 142);
+}
+
+.popular
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.popular img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.popular p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.popular h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.popular h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -0px;
+}
+
+.popular:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular2
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 230px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular2 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.popular2 p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.popular2 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.popular2 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -0px;
+}
+
+.popular2:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular3
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 435px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular3 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.popular3 p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.popular3 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.popular3 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -0px;
+}
+
+.popular3:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular4
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 645px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular4 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.popular4 p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.popular4 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.popular4:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular5
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 855px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular5 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.popular5 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.popular5 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.popular5 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: 0px;
+    line-height: 20px;
+}
+
+.popular5:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular6
+{
+    background-color: rgb(33, 33, 33);
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 200px;
+    height: 270px;
+    border-radius: 10px;
+}
+
+.popular6 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;   
+}
+
+.popular6 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.popular6 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.popular6:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular7
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 230px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular7 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;   
+}
+
+.popular7 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;   
+}
+
+.popular7 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;   
+}
+
+.popular7:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular8
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 435px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular8 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;   
+}
+
+.popular8 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;   
+}
+
+.popular8 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;   
+}
+
+.popular8 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: 0px;
+    line-height: 20px;
+}
+
+.popular8:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular9
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 645px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular9 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;   
+}
+
+.popular9 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;   
+}
+
+.popular9 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;   
+}
+
+.popular9:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.popular10
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 855px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.popular10 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;   
+}
+
+.popular10 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;   
+}
+
+.popular10 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;   
+}
+
+.popular10 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: 0px;
+    line-height: 20px;
+}
+
+.popular10:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.showall2 
+{
+    margin-left: 990px;
+    margin-top: -45px;
+    font-size: 14px;
+    color: rgb(149, 142, 142);
+}
+
+.artists
+{
+    background-color: rgb(33, 33, 33);
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 200px;
+    height: 270px;
+    border-radius: 10px;
+}
+
+.artists img
+{
+    width: 180px;
+    height: 175px;
+    margin-top: 10px;
+    padding: 9px;
+    border-radius: 50%;   
+}
+
+.artists p
+{
+    font-size: 21px;
+    margin-top: -10px;
+}
+
+.artists h3
+{
+    font-size: 17px;
+    color: white;
+    margin-left: 45px;
+    margin-top: -20px;
+    color: rgb(130, 130, 130);
+}
+
+.artists:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.artists2
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 230px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.artists2 img
+{
+    border-radius: 50%;
+    width: 180px;
+    height: 175px;
+    margin-top: 10px;
+    padding: 9px;
+}
+
+.artists2 p
+{
+    font-size: 21px;
+    margin-top: -10px;   
+}
+
+.artists2 h3
+{
+    font-size: 17px;
+    color: white;
+    margin-left: 45px;
+    margin-top: -20px;
+    color: rgb(130, 130, 130);   
+}
+
+.artists2:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+
+.artists3
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 435px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.artists3 img
+{
+    border-radius: 50%;
+    width: 180px;
+    height: 175px;
+    margin-top: 10px;
+    padding: 9px;
+}
+
+.artists3 p
+{
+    font-size: 21px;
+    margin-top: -10px;   
+}
+
+.artists3 h3
+{
+    font-size: 17px;
+    color: white;
+    margin-left: 45px;
+    margin-top: -20px;
+    color: rgb(130, 130, 130);   
+}
+
+.artists3:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.artists4
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 645px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.artists4 img
+{
+    border-radius: 50%;
+    width: 180px;
+    height: 175px;
+    margin-top: 10px;
+    padding: 9px;
+}
+
+.artists4 p
+{
+    font-size: 21px;
+    margin-top: -10px;   
+}
+
+.artists4 h3
+{
+    font-size: 17px;
+    color: white;
+    margin-left: 45px;
+    margin-top: -20px;
+    color: rgb(130, 130, 130);   
+}
+
+.artists4:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+
+.artists5
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 855px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.artists5 img
+{
+    border-radius: 50%;
+    width: 180px;
+    height: 175px;
+    margin-top: 10px;
+    padding: 9px;
+}
+
+.artists5 p
+{
+    font-size: 21px;
+    margin-top: -10px;   
+}
+
+.artists5 h3
+{
+    font-size: 17px;
+    color: white;
+    margin-left: 45px;
+    margin-top: -20px;
+    color: rgb(130, 130, 130);   
+}
+
+.artists5:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.Popular-artists2
+{
+    margin-top: 40px;
+}
+
+
+.Popular-albums
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.Popular-albums img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.Popular-albums p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.Popular-albums h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.Popular-albums h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -0px;
+}
+
+.Popular-albums:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.Popular-albums2
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 230px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.Popular-albums2 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.Popular-albums2 p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.Popular-albums2 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.Popular-albums2 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -0px;
+}
+
+.Popular-albums2:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.Popular-albums3
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 435px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.Popular-albums3 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.Popular-albums3 p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.Popular-albums3 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.Popular-albums3 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -0px;
+}
+
+.Popular-albums3:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.Popular-albums4
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 645px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.Popular-albums4 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.Popular-albums4 p
+{
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.Popular-albums4 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.Popular-albums4:hover
+{
+    background-color: rgb(50, 50, 50);
+}
+
+.Popular-albums5
+{
+    width: 200px;
+    height: 270px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 855px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+
+.Popular-albums5 img
+{
+    width: 180px;
+    height: 175px;
+    padding: 10px;
+    border-radius: 3vh;
+}
+
+.Popular-albums5 p
+{
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: -32px;
+}
+
+.Popular-albums5 h3
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.Popular-albums5 h4
+{
+    color: white;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: 0px;
+    line-height: 20px;
+}
+
+.Popular-albums5:hover
+{
+    background-color: rgb(50, 50, 50);
+}
